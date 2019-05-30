@@ -25,7 +25,7 @@ Vue, Vuex, Vue-router, HTML, CSS
 
 ## Online demo
 
-[Try demo here](https://194.8.234.222)
+Temporary is not available. Sorry about this (
 
 ## Compatibility
 
